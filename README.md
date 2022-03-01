@@ -6,10 +6,7 @@ Sentiment analysis is basically the process of determining the attitude or the e
 </p>
 
 ## *Sentiment Analysis Techniques*
-   1. Gensim
-   2. Sumy
-   3. Transformer T5 model
-   4. BERT
-   5. GPT-2
-   6. XLNet
-   7. BART
+   1. Textblob
+   2. NLTK
+   3. Transformer
+   4. Flair
