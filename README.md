@@ -1,1 +1,1 @@
-# Multiple-Techniques-for-Sentment-Analysis
+# Multiple Techniques for Sentment Analysis
